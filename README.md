@@ -1,8 +1,18 @@
 # title.track
 JSON files to assist with title cutoffs in WoW Legion
 
-Please assist us by providing maxed level characters.
+* What we provide *
+Please make the most of the information available, currently starting as a 'proof of concept' but we are happy for others to use the information we have produced (Although would be nice to see contributions!)
 
-Currently scanning Auction house, guilds and other leaderboards for players then checking rating
+We expect to be providing full ladderboards (but with factions!), list of players by faction, maxed level players by realms and guild by realms once the project is in full swing.
+
+* Current process *
+# Scan Auction House and Leaderboards (Incl. PvP) for players (Plus character lists/exports available online)
+# Check each player for Guild and PvP Stats
+# Check each guild for additional players
+# Routinely process PvP players to ensure that they are still 'active'
+
+* Assist us *
+Please assist us by providing maxed level characters, guilds, and/or character data with pvp rating
 
 This is a very slow process due to API limits, any help would be appreciated
