@@ -1,0 +1,508 @@
+{
+	"overall_ratio_based" : {
+		"rbg" : {
+			"eu" : {
+				"alliance" : {
+					"lowest" : 14091,
+					"rival" : {
+						"rating" : 1932,
+						"rank" : 1412
+					},
+					"challenger" : {
+						"rating" : 1693,
+						"rank" : 4937
+					},
+					"rank_one" : {
+						"rating" : 2737,
+						"rank" : 15
+					},
+					"duelist" : {
+						"rating" : 2236,
+						"rank" : 423
+					},
+					"glad" : {
+						"rating" : 2620,
+						"rank" : 72
+					}
+				},
+				"horde" : {
+					"lowest" : 19241,
+					"rival" : {
+						"rating" : 1865,
+						"rank" : 1933
+					},
+					"challenger" : {
+						"rating" : 1654,
+						"rank" : 6782
+					},
+					"rank_one" : {
+						"rating" : 2713,
+						"rank" : 20
+					},
+					"duelist" : {
+						"rating" : 2161,
+						"rank" : 578
+					},
+					"glad" : {
+						"rating" : 2568,
+						"rank" : 97
+					}
+				}
+			},
+			"us" : {
+				"alliance" : {
+					"lowest" : 9231,
+					"rival" : {
+						"rating" : 1931,
+						"rank" : 928
+					},
+					"challenger" : {
+						"rating" : 1708,
+						"rank" : 3248
+					},
+					"rank_one" : {
+						"rating" : 2710,
+						"rank" : 10
+					},
+					"duelist" : {
+						"rating" : 2200,
+						"rank" : 277
+					},
+					"glad" : {
+						"rating" : 2498,
+						"rank" : 47
+					}
+				},
+				"horde" : {
+					"lowest" : 18298,
+					"rival" : {
+						"rating" : 1797,
+						"rank" : 1839
+					},
+					"challenger" : {
+						"rating" : 1628,
+						"rank" : 6418
+					},
+					"rank_one" : {
+						"rating" : 2591,
+						"rank" : 19
+					},
+					"duelist" : {
+						"rating" : 2044,
+						"rank" : 551
+					},
+					"glad" : {
+						"rating" : 2410,
+						"rank" : 92
+					}
+				}
+			}
+		},
+		"3v3" : {
+			"eu" : {
+				"alliance" : {
+					"lowest" : 77493,
+					"rival" : {
+						"rating" : 1923,
+						"rank" : 7763
+					},
+					"challenger" : {
+						"rating" : 1670,
+						"rank" : 27153
+					},
+					"rank_one" : {
+						"rating" : 2782,
+						"rank" : 80
+					},
+					"duelist" : {
+						"rating" : 2192,
+						"rank" : 2335
+					},
+					"glad" : {
+						"rating" : 2566,
+						"rank" : 388
+					}
+				},
+				"horde" : {
+					"lowest" : 88599,
+					"rival" : {
+						"rating" : 1896,
+						"rank" : 8872
+					},
+					"challenger" : {
+						"rating" : 1645,
+						"rank" : 31132
+					},
+					"rank_one" : {
+						"rating" : 2767,
+						"rank" : 89
+					},
+					"duelist" : {
+						"rating" : 2154,
+						"rank" : 2671
+					},
+					"glad" : {
+						"rating" : 2549,
+						"rank" : 444
+					}
+				}
+			},
+			"us" : {
+				"alliance" : {
+					"lowest" : 47151,
+					"rival" : {
+						"rating" : 1933,
+						"rank" : 4728
+					},
+					"challenger" : {
+						"rating" : 1692,
+						"rank" : 16578
+					},
+					"rank_one" : {
+						"rating" : 2705,
+						"rank" : 48
+					},
+					"duelist" : {
+						"rating" : 2182,
+						"rank" : 1419
+					},
+					"glad" : {
+						"rating" : 2508,
+						"rank" : 236
+					}
+				},
+				"horde" : {
+					"lowest" : 71216,
+					"rival" : {
+						"rating" : 1848,
+						"rank" : 7144
+					},
+					"challenger" : {
+						"rating" : 1620,
+						"rank" : 24957
+					},
+					"rank_one" : {
+						"rating" : 2665,
+						"rank" : 73
+					},
+					"duelist" : {
+						"rating" : 2097,
+						"rank" : 2140
+					},
+					"glad" : {
+						"rating" : 2430,
+						"rank" : 357
+					}
+				}
+			}
+		}
+	},
+	"current" : {
+		"rbg" : {
+			"eu" : {
+				"horde" : {
+					"lowest" : 4916,
+					"rival" : {
+						"rating" : 2066,
+						"rank" : 492
+					},
+					"challenger" : {
+						"rating" : 1809,
+						"rank" : 1729
+					},
+					"rank_one" : {
+						"rating" : 2815,
+						"rank" : 5
+					},
+					"duelist" : {
+						"rating" : 2328,
+						"rank" : 148
+					},
+					"glad" : {
+						"rating" : 2554,
+						"rank" : 26
+					}
+				},
+				"alliance" : {
+					"lowest" : 6943,
+					"rival" : {
+						"rating" : 2115,
+						"rank" : 695
+					},
+					"challenger" : {
+						"rating" : 1817,
+						"rank" : 2435
+					},
+					"rank_one" : {
+						"rating" : 2829,
+						"rank" : 7
+					},
+					"duelist" : {
+						"rating" : 2394,
+						"rank" : 210
+					},
+					"glad" : {
+						"rating" : 2674,
+						"rank" : 36
+					}
+				},
+				"combined" : {
+					"count" : 16424
+				}
+			},
+			"us" : {
+				"horde" : {
+					"lowest" : 9744,
+					"rival" : {
+						"rating" : 1917,
+						"rank" : 975
+					},
+					"challenger" : {
+						"rating" : 1701,
+						"rank" : 3415
+					},
+					"rank_one" : {
+						"rating" : 2710,
+						"rank" : 10
+					},
+					"duelist" : {
+						"rating" : 2185,
+						"rank" : 293
+					},
+					"glad" : {
+						"rating" : 2492,
+						"rank" : 49
+					}
+				},
+				"alliance" : {
+					"lowest" : 9481,
+					"rival" : {
+						"rating" : 2030,
+						"rank" : 952
+					},
+					"challenger" : {
+						"rating" : 1755,
+						"rank" : 3335
+					},
+					"rank_one" : {
+						"rating" : 2788,
+						"rank" : 10
+					},
+					"duelist" : {
+						"rating" : 2334,
+						"rank" : 286
+					},
+					"glad" : {
+						"rating" : 2657,
+						"rank" : 48
+					}
+				},
+				"combined" : {
+					"count" : 14660
+				}
+			}
+		},
+		"3v3" : {
+			"eu" : {
+				"horde" : {
+					"lowest" : 14921,
+					"rival" : {
+						"rating" : 2170,
+						"rank" : 1499
+					},
+					"challenger" : {
+						"rating" : 1911,
+						"rank" : 5227
+					},
+					"rank_one" : {
+						"rating" : 2761,
+						"rank" : 15
+					},
+					"duelist" : {
+						"rating" : 2405,
+						"rank" : 457
+					},
+					"glad" : {
+						"rating" : 2658,
+						"rank" : 75
+					}
+				},
+				"alliance" : {
+					"lowest" : 22558,
+					"rival" : {
+						"rating" : 2200,
+						"rank" : 2263
+					},
+					"challenger" : {
+						"rating" : 1919,
+						"rank" : 7914
+					},
+					"rank_one" : {
+						"rating" : 2904,
+						"rank" : 23
+					},
+					"duelist" : {
+						"rating" : 2466,
+						"rank" : 678
+					},
+					"glad" : {
+						"rating" : 2740,
+						"rank" : 114
+					}
+				},
+				"combined" : {
+					"count" : 48349
+				}
+			},
+			"us" : {
+				"horde" : {
+					"lowest" : 22536,
+					"rival" : {
+						"rating" : 2085,
+						"rank" : 2256
+					},
+					"challenger" : {
+						"rating" : 1827,
+						"rank" : 7923
+					},
+					"rank_one" : {
+						"rating" : 2749,
+						"rank" : 23
+					},
+					"duelist" : {
+						"rating" : 2328,
+						"rank" : 677
+					},
+					"glad" : {
+						"rating" : 2607,
+						"rank" : 114
+					}
+				},
+				"alliance" : {
+					"lowest" : 25791,
+					"rival" : {
+						"rating" : 2160,
+						"rank" : 2591
+					},
+					"challenger" : {
+						"rating" : 1892,
+						"rank" : 9027
+					},
+					"rank_one" : {
+						"rating" : 2892,
+						"rank" : 26
+					},
+					"duelist" : {
+						"rating" : 2431,
+						"rank" : 774
+					},
+					"glad" : {
+						"rating" : 2723,
+						"rank" : 129
+					}
+				},
+				"combined" : {
+					"count" : 37457
+				}
+			}
+		}
+	},
+	"overall" : {
+		"rbg" : {
+			"eu" : {
+				"lowest" : 33333,
+				"rival" : {
+					"rating" : 1755,
+					"rank" : 3335
+				},
+				"challenger" : {
+					"rating" : 1588,
+					"rank" : 11712
+				},
+				"rank_one" : {
+					"rating" : 2677,
+					"rank" : 34
+				},
+				"duelist" : {
+					"rating" : 2020,
+					"rank" : 1002
+				},
+				"glad" : {
+					"rating" : 2441,
+					"rank" : 167
+				}
+			},
+			"us" : {
+				"lowest" : 27530,
+				"rival" : {
+					"rating" : 1729,
+					"rank" : 2757
+				},
+				"challenger" : {
+					"rating" : 1582,
+					"rank" : 9698
+				},
+				"rank_one" : {
+					"rating" : 2551,
+					"rank" : 28
+				},
+				"duelist" : {
+					"rating" : 1954,
+					"rank" : 829
+				},
+				"glad" : {
+					"rating" : 2337,
+					"rank" : 139
+				}
+			}
+		},
+		"3v3" : {
+			"eu" : {
+				"lowest" : 166093,
+				"rival" : {
+					"rating" : 1764,
+					"rank" : 16611
+				},
+				"challenger" : {
+					"rating" : 1533,
+					"rank" : 58340
+				},
+				"rank_one" : {
+					"rating" : 2704,
+					"rank" : 167
+				},
+				"duelist" : {
+					"rating" : 2017,
+					"rank" : 5000
+				},
+				"glad" : {
+					"rating" : 2419,
+					"rank" : 835
+				}
+			},
+			"us" : {
+				"lowest" : 118368,
+				"rival" : {
+					"rating" : 1752,
+					"rank" : 11840
+				},
+				"challenger" : {
+					"rating" : 1535,
+					"rank" : 41454
+				},
+				"rank_one" : {
+					"rating" : 2604,
+					"rank" : 119
+				},
+				"duelist" : {
+					"rating" : 2000,
+					"rank" : 3569
+				},
+				"glad" : {
+					"rating" : 2353,
+					"rank" : 593
+				}
+			}
+		}
+	}
+}
